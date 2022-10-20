@@ -53,3 +53,60 @@ a, i {
     color: #C1B696;
 }
 
+.main-image {
+    height: 400px;
+    background-image: url('../img/colorful-arte.jpg');
+    margin-bottom: 30px;
+    position: relative;
+    
+}
+
+.main-image-info {
+    background-color: #FFF;
+    position: absolute;
+    left: 25px;
+    bottom: 25px;
+    padding: 10px 20px;
+    border-radius: 2px;
+}
+
+#galery-container h1 {
+    text-align: center;
+}
+
+#galery-container h1,
+#galery-container .col-md-6{
+    margin-bottom: 60px;
+}
+
+.col-12 {
+    margin-bottom: 50px;
+}
+
+.small-image-container {
+    max-height: 300px;
+    max-width: 550px;
+    width: auto;
+    height: auto;
+    object-fit: fill;
+    margin-bottom: 20px;
+}
+
+.col-md-6 {
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+}
+
+.btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 110px;
+}
+
+.bi-plus {
+    color: #fff;
+    margin-right: 3px;
+    font-size: 17px;
+}
