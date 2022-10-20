@@ -1,5 +1,5 @@
 # Pincel-Galeria-de-Arte
-Página responsiva de uma galeria de arte feita com HTML, CSS e BootStrap.
+Página inicial responsiva de uma galeria de arte feita com HTML, CSS e BootStrap.
 
 ![home](https://github.com/BRMicael/Pincel-Galeria-de-Arte/blob/master/screenshots/home.png)<br>
 ![gallery](https://github.com/BRMicael/Pincel-Galeria-de-Arte/blob/master/screenshots/gallery.png)<br>
