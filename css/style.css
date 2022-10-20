@@ -110,3 +110,42 @@ a, i {
     margin-right: 3px;
     font-size: 17px;
 }
+
+footer {
+    border-top: 1px solid #CCC;
+    height: 250px;
+    padding: 30px;
+}
+
+footer i {
+    font-size: 20px;
+}
+
+#social-icons-container {
+    padding: 25px;
+}
+
+#social-icons-container div {
+    text-align: center;
+}
+
+footer p {
+    text-align: center;
+    margin: 20px;
+}
+
+a:hover .bi-facebook {
+    color: lightblue;
+}
+
+a:hover .bi-instagram {
+    color: lightpink;
+}
+
+a:hover .bi-twitter {
+    color: lightblue;
+}
+
+a:hover .bi-envelope {
+    color: IndianRed;
+}
