@@ -16,5 +16,5 @@ Página inicial responsiva de uma galeria de arte feita com HTML, CSS e BootStra
 <h2> Para iniciar essa aplicação em sua máquina: </h2>
 
 ```bash
-• Basta inicar o repositório com a extensão live server do VSCode.
+• Basta iniciar o repositório com a extensão live server do VSCode.
 ```
